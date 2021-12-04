@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0;
+	color: black;
+}
+
+button{
+	display: block;
+	border-radius: 0px;
+	border: 1px solid grey;
+	cursor: pointer;
+}
+
+button:hover{
+	opacity: 0.8;
+}
